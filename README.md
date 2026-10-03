@@ -7,6 +7,7 @@ My leetcode dsa pracrice in python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/manisha136/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/manisha136/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manisha136/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/manisha136/leetcode-dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/manisha136/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -56,6 +57,7 @@ My leetcode dsa pracrice in python
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/manisha136/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0125-valid-palindrome](https://github.com/manisha136/leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manisha136/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0567-permutation-in-string](https://github.com/manisha136/leetcode-dsa/tree/main/0567-permutation-in-string/) | Medium |
@@ -63,4 +65,8 @@ My leetcode dsa pracrice in python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/manisha136/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/manisha136/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
