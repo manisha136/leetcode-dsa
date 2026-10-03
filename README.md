@@ -7,6 +7,7 @@ My leetcode dsa pracrice in python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/manisha136/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manisha136/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/manisha136/leetcode-dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/manisha136/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/manisha136/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -43,6 +44,7 @@ My leetcode dsa pracrice in python
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manisha136/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/manisha136/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -53,6 +55,7 @@ My leetcode dsa pracrice in python
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manisha136/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0567-permutation-in-string](https://github.com/manisha136/leetcode-dsa/tree/main/0567-permutation-in-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
