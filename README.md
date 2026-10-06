@@ -10,6 +10,7 @@ My leetcode dsa pracrice in python
 | [0011-container-with-most-water](https://github.com/manisha136/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/manisha136/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manisha136/leetcode-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manisha136/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/manisha136/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/manisha136/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manisha136/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -52,6 +53,7 @@ My leetcode dsa pracrice in python
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manisha136/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/manisha136/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manisha136/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/manisha136/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
