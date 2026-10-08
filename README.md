@@ -56,6 +56,7 @@ My leetcode dsa pracrice in python
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manisha136/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/manisha136/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manisha136/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0278-first-bad-version](https://github.com/manisha136/leetcode-dsa/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/manisha136/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/manisha136/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
@@ -88,4 +89,8 @@ My leetcode dsa pracrice in python
 | ------- | ------- |
 | [0015-3sum](https://github.com/manisha136/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/manisha136/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/manisha136/leetcode-dsa/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
