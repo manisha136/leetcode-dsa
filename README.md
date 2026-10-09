@@ -20,6 +20,7 @@ My leetcode dsa pracrice in python
 | [0904-fruit-into-baskets](https://github.com/manisha136/leetcode-dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/manisha136/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/manisha136/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/manisha136/leetcode-dsa/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/manisha136/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ My leetcode dsa pracrice in python
 | [0704-binary-search](https://github.com/manisha136/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/manisha136/leetcode-dsa/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/manisha136/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/manisha136/leetcode-dsa/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
