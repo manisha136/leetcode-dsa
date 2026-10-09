@@ -16,6 +16,7 @@ My leetcode dsa pracrice in python
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manisha136/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/manisha136/leetcode-dsa/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/manisha136/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/manisha136/leetcode-dsa/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/manisha136/leetcode-dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/manisha136/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/manisha136/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -58,6 +59,7 @@ My leetcode dsa pracrice in python
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manisha136/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/manisha136/leetcode-dsa/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/manisha136/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/manisha136/leetcode-dsa/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/manisha136/leetcode-dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
