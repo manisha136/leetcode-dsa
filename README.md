@@ -13,6 +13,7 @@ My leetcode dsa pracrice in python
 | [0033-search-in-rotated-sorted-array](https://github.com/manisha136/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manisha136/leetcode-dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/manisha136/leetcode-dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0075-sort-colors](https://github.com/manisha136/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/manisha136/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manisha136/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manisha136/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -80,6 +81,7 @@ My leetcode dsa pracrice in python
 | [0011-container-with-most-water](https://github.com/manisha136/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/manisha136/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manisha136/leetcode-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/manisha136/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/manisha136/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/manisha136/leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manisha136/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -97,6 +99,7 @@ My leetcode dsa pracrice in python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/manisha136/leetcode-dsa/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/manisha136/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/manisha136/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0912-sort-an-array](https://github.com/manisha136/leetcode-dsa/tree/main/0912-sort-an-array/) | Medium |
 ## Interactive
@@ -127,4 +130,12 @@ My leetcode dsa pracrice in python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/manisha136/leetcode-dsa/tree/main/0912-sort-an-array/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/manisha136/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/manisha136/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
