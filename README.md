@@ -32,6 +32,7 @@ My leetcode dsa pracrice in python
 | [0001-two-sum](https://github.com/manisha136/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manisha136/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/manisha136/leetcode-dsa/tree/main/0076-minimum-window-substring/) | Hard |
+| [0242-valid-anagram](https://github.com/manisha136/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/manisha136/leetcode-dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/manisha136/leetcode-dsa/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/manisha136/leetcode-dsa/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -43,6 +44,7 @@ My leetcode dsa pracrice in python
 | [0003-longest-substring-without-repeating-characters](https://github.com/manisha136/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/manisha136/leetcode-dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/manisha136/leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/manisha136/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/manisha136/leetcode-dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/manisha136/leetcode-dsa/tree/main/0567-permutation-in-string/) | Medium |
 ## Sliding Window
@@ -101,6 +103,7 @@ My leetcode dsa pracrice in python
 | [0015-3sum](https://github.com/manisha136/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/manisha136/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/manisha136/leetcode-dsa/tree/main/0088-merge-sorted-array/) | Easy |
+| [0242-valid-anagram](https://github.com/manisha136/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0912-sort-an-array](https://github.com/manisha136/leetcode-dsa/tree/main/0912-sort-an-array/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
