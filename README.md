@@ -32,6 +32,7 @@ My leetcode dsa pracrice in python
 | ------- | ------- |
 | [0001-two-sum](https://github.com/manisha136/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manisha136/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/manisha136/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/manisha136/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/manisha136/leetcode-dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0205-isomorphic-strings](https://github.com/manisha136/leetcode-dsa/tree/main/0205-isomorphic-strings/) | Easy |
@@ -45,6 +46,7 @@ My leetcode dsa pracrice in python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manisha136/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/manisha136/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/manisha136/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/manisha136/leetcode-dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/manisha136/leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
@@ -97,6 +99,7 @@ My leetcode dsa pracrice in python
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/manisha136/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/manisha136/leetcode-dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
