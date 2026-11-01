@@ -8,6 +8,7 @@ My leetcode dsa pracrice in python
 | ------- | ------- |
 | [0001-two-sum](https://github.com/manisha136/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/manisha136/leetcode-dsa/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/manisha136/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/manisha136/leetcode-dsa/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manisha136/leetcode-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/manisha136/leetcode-dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -47,6 +48,7 @@ My leetcode dsa pracrice in python
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manisha136/leetcode-dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/manisha136/leetcode-dsa/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/manisha136/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/manisha136/leetcode-dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/manisha136/leetcode-dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/manisha136/leetcode-dsa/tree/main/0125-valid-palindrome/) | Easy |
@@ -150,4 +152,8 @@ My leetcode dsa pracrice in python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/manisha136/leetcode-dsa/tree/main/0075-sort-colors/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/manisha136/leetcode-dsa/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
