@@ -58,6 +58,7 @@ My leetcode dsa pracrice in python
 | [0242-valid-anagram](https://github.com/manisha136/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/manisha136/leetcode-dsa/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/manisha136/leetcode-dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0443-string-compression](https://github.com/manisha136/leetcode-dsa/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/manisha136/leetcode-dsa/tree/main/0567-permutation-in-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@ My leetcode dsa pracrice in python
 | [0151-reverse-words-in-a-string](https://github.com/manisha136/leetcode-dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manisha136/leetcode-dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/manisha136/leetcode-dsa/tree/main/0283-move-zeroes/) | Easy |
+| [0443-string-compression](https://github.com/manisha136/leetcode-dsa/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/manisha136/leetcode-dsa/tree/main/0567-permutation-in-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
